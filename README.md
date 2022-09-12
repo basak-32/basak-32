@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ranajit
+- 👋 Hi, I’m Ranajit, Software Developer @Amazon
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning to code backend services with scale
 - 💞️ I’m looking to collaborate on anywhere you want!
